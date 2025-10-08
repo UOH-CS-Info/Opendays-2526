@@ -1,11 +1,13 @@
 
 # University of Hull <br> Computer Science <br> Open Days
 
-This page provides useful open-day follow-up information.
+This page provides useful open-day follow-up information [^1].
 
 ## Downloads
 
 [Open day presentation](https://hullacuk-my.sharepoint.com/:b:/g/personal/w_j_viant_hull_ac_uk/EX0cqpBzBsRNjxH5qnFFkTABD66nnFNzAd-5NiMSIzRAww?e=HfVNeV)
+
+[Open day presentation](/Computer%20Science%20Open%20Day%20Presentation%202025-26%20v1.pdf)
 
 ## Degrees
 
@@ -17,13 +19,19 @@ This page provides useful open-day follow-up information.
 
 [AI](https://www.hull.ac.uk/study/undergraduate/courses/computer-science-artificial-intelligence-bsc-meng?option=standard-course&start=2026)
 
-[Robitics and AI](https://www.hull.ac.uk/study/undergraduate/courses/robotics-and-artificial-intelligence-bsc-meng?option=standard-course&start=2026)
+[Robotics and AI](https://www.hull.ac.uk/study/undergraduate/courses/robotics-and-artificial-intelligence-bsc-meng?option=standard-course&start=2026)
 
 ## Contact details
 
-If you have any Computer Science specific queries then please contacts us at:
+Our Programme Directors will be happy to answer any subject specific questions
 
-TBD emails
+| Subject | Programme Director |
+|---|---|
+| Computer Science | [Dr John Dixon](email:john.dixon@hull.ac.uk)|
+| Software Development | [Dr John Dixon](email:john.dixon@hull.ac.uk) |
+| Games Programming | [Dr Simon Grey](email:s.grey@hull.ac.uk) |
+| AI | [Dr Rameez Kureshi](email:r.kureshi@hull.ac.uk) |
+| Robotics and AI | [Dr Peter Robinson](email:p.a.robinson@hull.ac.uk) |
 
 
-Please note that this information is accurate at the time of the Open Day
+[^1]: Please note that this information is accurate at the time of the Open Day.
