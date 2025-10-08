@@ -7,8 +7,6 @@ This page provides useful open-day follow-up information [^1].
 
 [Open day presentation](https://hullacuk-my.sharepoint.com/:b:/g/personal/w_j_viant_hull_ac_uk/EX0cqpBzBsRNjxH5qnFFkTABD66nnFNzAd-5NiMSIzRAww?e=HfVNeV)
 
-[Open day presentation](/Computer%20Science%20Open%20Day%20Presentation%202025-26%20v1.pdf)
-
 ## Degrees
 
 [Computer Science](https://www.hull.ac.uk/study/undergraduate/courses/computer-science-bsc-meng?option=standard-course&start=2026)
@@ -27,10 +25,10 @@ Our Programme Directors will be happy to answer any subject specific questions
 
 | Subject | Programme Director |
 |---|---|
-| Computer Science | [Dr John Dixon](john.dixon@hull.ac.uk)|
-| Software Development | [Dr John Dixon](john.dixon@hull.ac.uk) |
-| Games Programming | [Dr Simon Grey](s.grey@hull.ac.uk) |
-| AI | [Dr Rameez Kureshi](r.kureshi@hull.ac.uk) |
-| Robotics and AI | [Dr Peter Robinson](p.a.robinson@hull.ac.uk) |
+| Computer Science | [Dr John Dixon](email:john.dixon@hull.ac.uk)|
+| Software Development | [Dr John Dixon](email:john.dixon@hull.ac.uk) |
+| Games Programming | [Dr Simon Grey](email:s.grey@hull.ac.uk) |
+| AI | [Dr Rameez Kureshi](email:r.kureshi@hull.ac.uk) |
+| Robotics and AI | [Dr Peter Robinson](email:p.a.robinson@hull.ac.uk) |
 
 [^1]: **Please note that this information is accurate at the time of the Open Day.**
