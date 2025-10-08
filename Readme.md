@@ -25,10 +25,10 @@ Our Programme Directors will be happy to answer any subject specific questions
 
 | Subject | Programme Director |
 |---|---|
-| Computer Science | [Dr John Dixon](email:john.dixon@hull.ac.uk)|
-| Software Development | [Dr John Dixon](email:john.dixon@hull.ac.uk) |
-| Games Programming | [Dr Simon Grey](email:s.grey@hull.ac.uk) |
-| AI | [Dr Rameez Kureshi](email:r.kureshi@hull.ac.uk) |
-| Robotics and AI | [Dr Peter Robinson](email:p.a.robinson@hull.ac.uk) |
+| Computer Science | [Dr John Dixon](mailto:john.dixon@hull.ac.uk?Subject=Computer%20Science%20Query)|
+| Software Development | [Dr John Dixon](mailto:john.dixon@hull.ac.uk?Subject=Software%20Development%20Query) |
+| Games Programming | [Dr Simon Grey](mailto:s.grey@hull.ac.uk?Subject=Games%20Programming%20Query) |
+| AI | [Dr Rameez Kureshi](mailto:r.kureshi@hull.ac.uk?Subject=AI%20Query) |
+| Robotics and AI | [Dr Peter Robinson](mailto:p.a.robinson@hull.ac.uk?Subject=Robotics%20And%20AI%20Query) |
 
 [^1]: **Please note that this information is accurate at the time of the Open Day.**
