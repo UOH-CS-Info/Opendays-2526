@@ -3,11 +3,11 @@
 
 This page provides useful open-day follow-up information [^1].
 
-## Open Day slides (pdf)
+## Open Day slides (PDF)
 
 [Open day presentation](https://hullacuk-my.sharepoint.com/:b:/g/personal/w_j_viant_hull_ac_uk/EX0cqpBzBsRNjxH5qnFFkTABD66nnFNzAd-5NiMSIzRAww?e=HfVNeV)
 
-## Degrees overview (website)
+## Degree overview (Website)
 
 [Computer Science](https://www.hull.ac.uk/study/undergraduate/courses/computer-science-bsc-meng?option=standard-course&start=2026)
 
@@ -19,21 +19,21 @@ This page provides useful open-day follow-up information [^1].
 
 [Robotics and AI](https://www.hull.ac.uk/study/undergraduate/courses/robotics-and-artificial-intelligence-bsc-meng?option=standard-course&start=2026)
 
-## Degree details (pdf)
+## Degree details (PDF)
 
-[Computer Science](https://hullacuk-my.sharepoint.com/:b:/g/personal/w_j_viant_hull_ac_uk/ETEanE733lVHkl5vd8a2M1wBmL2mjIpOqUZw88-ZgJ1xgg?e=dWQWYn)
+[Computer Science](https://hullacuk-my.sharepoint.com/:b:/g/personal/w_j_viant_hull_ac_uk/EbKU3rRIXxRElazCbmHpTE4BYfq0yuTToKut4fflmLTGDg?e=3THvfo)
 
-[Software Engineering](https://hullacuk-my.sharepoint.com/:b:/g/personal/w_j_viant_hull_ac_uk/Eerw9g1WKwVIny2ikFM0cT0BlrBY6rsxh9GQQDSNR2P_uQ?e=JP0J93)
+[Software Engineering](https://hullacuk-my.sharepoint.com/:b:/g/personal/w_j_viant_hull_ac_uk/Eerw9g1WKwVIny2ikFM0cT0BlrBY6rsxh9GQQDSNR2P_uQ?e=FcwmgE)
 
-[Games Programming](https://hullacuk-my.sharepoint.com/:b:/g/personal/w_j_viant_hull_ac_uk/EYpUNgvWc0dNgkg8zc3aWLQBXtCAb8ky9WS6WZ0fHsPnAA?e=BAG4du)
+[Games Programming](https://hullacuk-my.sharepoint.com/:b:/g/personal/w_j_viant_hull_ac_uk/Eb26r8DlfnxJnmyUG9ya7oUBfdAvx6SuN22hJKpD3utCug?e=QT7Enp)
 
-[AI](https://hullacuk-my.sharepoint.com/:b:/g/personal/w_j_viant_hull_ac_uk/EbHSKOdkEn1EsQz83wZSzLMB-Ks9golUVGWayW0Vc5pQzA?e=jaY468)
+[AI](https://hullacuk-my.sharepoint.com/:b:/g/personal/w_j_viant_hull_ac_uk/EbRLVCW2XrlBjSYwLxBIUS0B07-Mg0tqAn4U6Y4DxW2geg?e=tyf6uk)
 
-[Robotics and AI](https://hullacuk-my.sharepoint.com/:b:/g/personal/w_j_viant_hull_ac_uk/Ef2QAVMij2lClPOYO5-m6L4Bm9HjuMBsy56-iawcMJDRsg?e=sGKpd3)
+[Robotics and AI](https://hullacuk-my.sharepoint.com/:b:/g/personal/w_j_viant_hull_ac_uk/ERzb-DQrip1PlGWaag4AC-0Bb5v4L33QDl5enRkpf1IyOQ?e=lm4BCc)
 
 ## Contact details
 
-Our Programme Directors will be happy to answer any subject specific questions
+Our Programme Directors will be happy to answer any subject-specific questions
 
 | Subject | Programme Director |
 |---|---|
